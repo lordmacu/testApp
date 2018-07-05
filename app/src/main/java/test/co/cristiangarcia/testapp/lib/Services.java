@@ -1,4 +1,4 @@
-package test.co.cristiangarcia.testapp;
+package test.co.cristiangarcia.testapp.lib;
 
 import android.app.ProgressDialog;
 import android.content.Context;

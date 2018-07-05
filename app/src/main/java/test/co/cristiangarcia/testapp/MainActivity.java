@@ -4,6 +4,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import test.co.cristiangarcia.testapp.lib.Services;
+
 
 public class MainActivity extends AppCompatActivity {
     @Override
